@@ -121,9 +121,16 @@ customer-churn-prediction/
 ├── README.md
 └── images/
 ```
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
 
 ---
+
 ## Author
 Smriti Bhattacharjee
 
 B.Tech Student | Data Science Enthusiast | Aspiring AI Professional
+
+
