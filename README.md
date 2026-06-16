@@ -124,6 +124,6 @@ customer-churn-prediction/
 
 ---
 ## Author
-Smriti Bhattacharjee**
+Smriti Bhattacharjee
 
 B.Tech Student | Data Science Enthusiast | Aspiring AI Professional
